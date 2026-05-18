@@ -1,0 +1,11 @@
+report:
+  title: "Monthly Sales Performance Report"
+  company: "Your Company Name"
+  period: "April 2026"
+  author: "Your Name"
+
+input:
+  file: "data/sample_sales_data.csv"
+
+output:
+  filename: "reports/Monthly_Sales_Report_{date}.xlsx"
