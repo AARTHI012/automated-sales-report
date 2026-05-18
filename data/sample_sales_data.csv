@@ -1,0 +1,5 @@
+Date,Product,Category,Quantity,Unit_Price,Region
+2026-04-01,Wireless Headphones,Electronics,45,89.99,North
+2026-04-02,Smart Watch,Electronics,32,199.99,South
+2026-04-03,Laptop Sleeve,Accessories,120,24.99,West
+... (add ~100+ rows for realism)
